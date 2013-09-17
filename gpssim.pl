@@ -12,7 +12,7 @@ print scalar($point->lat), "," , scalar($point->long), "\n";
 foreach my $i (0..1000) {
 	$time = 5.0; #in seconds
 	$direction = 180+ rand(45); #moving south then westward
-	$speed = 22; #knots - 1,852 meters in a nautical mile
+	$speed = 2; #knots - 1,852 meters in a nautical mile
 
 	#above is where I'd get the time, speed, and direction
 	$distance = (($speed*1852) / (60*60)* $time);
