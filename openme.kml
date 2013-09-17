@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<NetworkLink>
+<name>Realtime GPS</name>
+<open>1</open>
+<Link>
+<href>./realtime.kml</href>
+<refreshMode>onInterval</refreshMode>
+</Link>
+</NetworkLink>
+</kml>

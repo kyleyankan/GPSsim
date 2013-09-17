@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+	<Placemark>
+		<name>point 67</name>
+		<description>67</description>
+		<LookAt>
+			<longitude>-75.1345310987057</longitude>
+			<latitude>39.9078839990985</latitude>
+			<range>800</range>
+			<tilt>60</tilt>
+			<heading>180</heading>
+		</LookAt>
+		<Point>
+			<coordinates>-75.1345310987057, 39.9078839990985, 0.</coordinates>
+		</Point>
+	</Placemark>
+</kml>
